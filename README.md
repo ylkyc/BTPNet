@@ -1,6 +1,6 @@
 # BTPNet
 This is the code for the paper "BTPNet: A Probabilistic Spatial-Temporal Aware Network for
-Burn-Through Point Multi-Step Prediction in Sintering Process".
+Burn-Through Point Multi-Step Prediction in Sintering Process".(under review)
 
 This work is inspired by the following papers:
 
